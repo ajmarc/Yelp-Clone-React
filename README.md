@@ -2,6 +2,14 @@
 
 ##### Yelp.com Clone made with React using Yelp's Fusion/GraphQL API
 
+
+# Project Screenshots
+
+![screenhomepage1](https://user-images.githubusercontent.com/25239322/138547321-41eca87f-d52f-4575-a74f-76ecffb9202c.png)
+
+![YelpLocationPage](https://user-images.githubusercontent.com/25239322/138547446-b76717a2-77b6-4d57-a850-cca3f79cb348.png)
+
+
 ### Tools used
 
 - Apollo
@@ -33,12 +41,6 @@ This project is currently in development.
 # Live site:
 
 - Adding soon
-
-# Project Screenshots
-
-![screenhomepage1](https://user-images.githubusercontent.com/25239322/138547321-41eca87f-d52f-4575-a74f-76ecffb9202c.png)
-
-![YelpLocationPage](https://user-images.githubusercontent.com/25239322/138547446-b76717a2-77b6-4d57-a850-cca3f79cb348.png)
 
 # Installation and Setup Instructions
 
